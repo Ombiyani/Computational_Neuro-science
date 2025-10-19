@@ -1,0 +1,1 @@
+Code and paper from our Computational Neuroscience course. We implemented a mass–spring–based neuron model for Layers 1–6 of a cortical column and studied the effects of neurodegeneration, simulated via a scaling matrix, throughout the network.
